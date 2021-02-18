@@ -84,3 +84,8 @@ Block storage volume names must be unique across the entire VPC infrastructure. 
 {: #api-considerations}
 
 * For API limitations and considerations, see [API application migration considerations](/docs/vpc?topic=vpc-api-integration-migration).
+
+## Nested virtualization
+{: #nested-virtualization}
+
+Nested virtualization is not supported. 
