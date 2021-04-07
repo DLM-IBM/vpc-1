@@ -53,7 +53,7 @@ When you stop a virtual server instance with an instance storage profile, that s
 ## Resizing with data volumes
 {: #resizing-with-data-volumes}
 
-Virtual servers using data volumes can only be resized to profiles that also have data volumes.
+Any attached data volume remains intact and attached in the resized instance.
 
 ## Resizing a virtual server instance using the UI
 {: #resizing-a-virtual-server-UI}
